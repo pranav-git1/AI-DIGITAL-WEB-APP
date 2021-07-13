@@ -23,8 +23,8 @@ body {
     width: 200px;
 }
 
-#speed,
-#volume {
+.speed,
+.volume {
     font-size: 18px;
     margin: 0;
 }
